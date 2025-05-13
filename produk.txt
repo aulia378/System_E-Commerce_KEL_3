@@ -1,0 +1,71 @@
+1;Headset;1500000;15
+2;PC;7000000;5
+3;Mouse;75000;1
+4;Laptop;80000000;1
+5;Keyboard;400000;5
+66;Mechanical Keyboard;450000;15
+7;Gaming Mouse;350000;20
+8;Wireless Headset;750000;12
+9;Graphic Tablet;1250000;7
+10;Wireless Router;600000;10
+11;Laser Printer;2200000;5
+12;Gaming Monitor;3200000;8
+13;External SSD;1500000;10
+14;Bluetooth Speaker;900000;18
+15;Smartwatch;1200000;9
+16;Webcam HD;500000;6
+17;Portable Projector;1800000;4
+18;Ergonomic Chair;2500000;3
+19;Streaming Microphone;1100000;6
+20;VR Headset;5500000;2
+21;Drawing Tablet;1600000;5
+22;Gaming Chair;3000000;7
+23;Portable SSD;1400000;10
+24;USB Hub;150000;25
+25;Laptop Stand;200000;30
+26;Smart Light;350000;14
+27;Mechanical Pencil;25000;50
+28;Wireless Charger;300000;20
+29;Noise Cancelling Headphones;2800000;4
+30;Fitness Tracker;900000;8
+31;Mini Drone;1300000;6
+32;Digital Camera;3500000;3
+33;Smartphone Holder;100000;25
+34;E-Book Reader;1800000;9
+35;Dash Cam;750000;11
+36;Smart TV Stick;800000;12
+37;USB Flashdisk 64GB;90000;40
+38;USB Flashdisk 128GB;140000;35
+39;Wireless Earbuds;650000;10
+40;Smartphone Gimbal;1200000;4
+41;Portable Monitor;2400000;3
+42;Laptop Cooling Pad;250000;16
+43;3D Printer;7500000;2
+44;Gaming Controller;650000;7
+45;External DVD Drive;400000;8
+46;Stylus Pen;300000;15
+47;Digital Voice Recorder;850000;6
+48;Wireless Presenter;200000;10
+49;Network Switch;500000;5
+50;Electric Scooter;4500000;3
+51;Bluetooth Keyboard;400000;10
+52;Gaming Laptop;15000000;2
+53;Mechanical Switch Set;500000;9
+54;HDMI Capture Card;900000;6
+55;NAS Storage;6000000;1
+56;WiFi Repeater;350000;7
+57;Ultrawide Monitor;5000000;2
+58;Silent Mouse;220000;13
+59;Foldable Keyboard;600000;5
+60;Smart Thermostat;1100000;4
+61;Smart Plug;180000;12
+62;Portable Power Station;7000000;2
+63;Laptop Backpack;350000;20
+64;Digital Alarm Clock;150000;18
+65;RGB Light Strip;250000;14
+66;Action Camera;2300000;5
+67;Wireless Gaming Mouse;550000;9
+68;Dual Monitor Arm;850000;3
+69;Phone Tripod;120000;22
+70;Magnetic Charging Cable;75000;35
+71Bluetooth Keyboard;450000;8
