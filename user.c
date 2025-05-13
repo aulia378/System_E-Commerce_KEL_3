@@ -1,8 +1,4 @@
 #include "header.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
 
 void enqueueCartFromFile(int idCari, int jumlahBeli) {
     FILE* f = fopen("produk.txt", "r");
