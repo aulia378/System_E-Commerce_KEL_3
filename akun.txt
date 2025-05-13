@@ -1,0 +1,8 @@
+admin;admin123;admin
+andre;andre123;admin
+annisa;nisa123;admin
+
+user;user123;customer
+isra;isra123;customer
+almira;almira123;customer
+
